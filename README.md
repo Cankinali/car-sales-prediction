@@ -19,4 +19,4 @@ Performans metrikleri (MAE, MSE, R²)
 Sonuçlar / Results
 Ensemble modeller (Random Forest, Gradient Boosting) lineer regresyona göre daha iyi performans gösterdi. Fiyat-yeniden satış değeri korelasyonu: 0.95
 Not / Note
-Eğitim amaçlı eski bir projedir. İyileştirme önerileri için Issues bölümüne bakabilirsiniz.
+Eğitim amaçlı eski bir projedir. İyileştirme önerilerine açığım :)
